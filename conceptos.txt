@@ -1,0 +1,44 @@
+Variables
+
+Las variables son un espacio que abrimos en la memoria de la pc, para almacenar datos, 
+estos pueden ser cadenas de texto "strings", numeros de cualquier tipo, booleanos, Podemos almacenar mas datos, 
+sin embargo los mas basicos son estos 3. Para crear una cariable debes usar la palabra reservada (var,let, const), 
+esto le indicara al editor de texto que lo siguiente que escribamos sera una variable. 
+
+ 
+Strings
+
+Un string es basicamente texto, la cualidad de estos es que esta dentro de comillas dobles o simples, ("",``)
+se puede poner numeros, palabras reservadas etc, siempre y cuando este dentro de las comillas se tratara como texto. 
+
+Funciones (argumentos, return)
+
+Las funciones son un conjunto de codigos que escribimos, cumplen una funcion en especifico,  
+y sirve para ejecutar una accion determinada sin tener que escribir muchas veces el mismo codigo, 
+con solo llamar a la funcion ya estamos invocando al codigo que escribimos una sola vez,
+pero no siempre vamos a querer hacer la misma accion totalmente igual, es por eso que a una funcion 
+se le puede pasar argumentos, por ejemplo si nosotros queremos realizar muchas sumas, entonces hacemos una funcion
+que realice sumas, pero los numeros deben ser pasados mediante el argumento, haciendo que el codigo siempre cumpla 
+ con la funcion de suma, pero nosotros cambiar los numeros igual veces. 
+
+
+
+
+
+
+
+
+Declaraciones if
+
+La declaracion if es un condicional. cuando el usuario realiza una accion como dar click, por lo general 
+espera una o mas tipos de respuesta a ese click, con if definimos que respuesta dar, 
+ya que si una condicion que hemos programado con el condicional If se cumple, el codigo interno se ejecutara, 
+pero si la condicion no se cumple, se ejecurata otro codigo, dando la posibilidad de dar diferentes tipos de respuesta.  
+
+
+
+Valores booleanos (true, false)
+
+Los Valores booleanos son solo dos, true o false, que vienen desde los numeros booleanos, 1 y 0 respectivamente,
+sirven por ejemplo en la declaracion if, para confirmar o negar el cumplimiento de condiciones. 
+
